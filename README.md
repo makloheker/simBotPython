@@ -4,6 +4,7 @@
 
 - `python` ver 3
 - `virtualenv`
+- `requests`
 
 ## instalasi tools
 
